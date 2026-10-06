@@ -80,7 +80,7 @@ I also gained practical experience working with **ASP.NET Core and Angular durin
 ### Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,visualstudio" />
+  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode" />
 </p>
 
 ---
