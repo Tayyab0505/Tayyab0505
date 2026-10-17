@@ -149,9 +149,16 @@ I'm currently open to:
 
 ---
 
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Tayyab0505&label=Profile%20Views&style=flat" alt="Profile Views" />
+  <a href="https://hits.sh/github.com/Tayyab0505/">
+    <img
+      src="https://hits.sh/github.com/Tayyab0505.svg?label=Profile%20Views&style=flat-square&color=blue"
+      alt="Profile Views"
+    />
+  </a>
 </p>
+
 
 <p align="center">
   <b>Thanks for visiting my profile. Let's build something great! 🚀</b>
